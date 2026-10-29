@@ -26,10 +26,6 @@ Can LLMs generate adaptive artifacts that build real mental models? I'm the test
 | Teaching System | A tutor that asks for a prediction first | Anyone learning a repo |
 | UML viewer plugin | Architecture viewer inside the agent chat | Developers |
 
-<p align="center">
-  <img src="assets/codebase-quest-mockup.png" alt="Codebase Quest mockup: a UML service map with a challenge answer and its code evidence (sample data)" width="560">
-</p>
-
 **Public:** [key-tunnel](https://github.com/3ottA/key-tunnel), a Windows keyboard on Linux over SSH (Rust).
 
 [X](https://x.com/franciscobotta_) · [LinkedIn](https://www.linkedin.com/in/francisco-botta/)
