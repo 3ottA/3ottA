@@ -1,31 +1,27 @@
 # Francisco Botta
 
-Systems engineer, Argentina. Ex-DevOps. Co-founded and was CTO of a cold-email agency (closed 2026).
+Systems Engineer (UTN) based in Córdoba, Argentina. I build software systems from first principles—and I've run the go-to-market behind them.
 
-## Now: mapping the limits of understanding
+Full architecture deep dives and live captures → **[franciscobotta.com](https://franciscobotta.com)**
 
-Can LLMs generate adaptive artifacts that build real mental models? I'm the test subject, learning technical systems.
+### Now
 
-**Hypotheses, not results**
+- **[Mind Gym](https://franciscobotta.com)** *(private prototype)* — Local-first cognitive workout workbench built to counter LLM-induced atrophy. Grounded in 221 learning-science principles on Next.js 15 + native `node:sqlite` (5 runtime deps), combining a Schema Frontier engine (cross-day consolidation + self-healing schema compression), a 4-tier Mastery skill tree, and a faded 4C/ID procedural tutor.
+- **[Kinevo](https://kinevo.agency)** *(co-builder)* — AI cinematography studio and deterministic production pipeline: 3-pass zero-context multi-agent film direction, ±5 cm Blender digital twins verified by a 900-frame `BVHTree` collision suite (0.5ms), and React 19 + Remotion 4 finishing.
 
-- Relevance: learn from today's real problems.
-- Theory plus practice.
-- Calibrate fast: find the frontier of what you understand.
-- The UI adapts to the discipline.
-- Trust comes from reliable sources.
-- Memory: store who you are and what you know.
+### Selected Work
 
-**Private prototypes** (proofs of concept, none good enough yet)
-
-| | What | For |
+| System | Role | What I built |
 |---|---|---|
-| MindLayer | Prepares reading for a goal, tracks what you understand | Engineers learning a codebase or book |
-| Memory plugin | Stores what agents can't derive about you | Anyone learning with agents |
-| Mind-Digger | Turns past agent-session friction into study material | Engineers shipping with agents |
-| Codebase Quest | Challenges linked to real code | Teams onboarding or on-call |
-| Teaching System | A tutor that asks for a prediction first | Anyone learning a repo |
-| UML viewer plugin | Architecture viewer inside the agent chat | Developers |
+| **[INNO Prospect](https://innoprospect.com)** | Co-Founder & CTO *(2024–2026)* | Polyglot B2B outbound platform (Go, Python, TypeScript/PostgreSQL) running 1,500+ inboxes and 24/7 AI SDRs — delivered 500+ qualified leads and client deals up to $72K from a single lead. |
+| **Chief Dashboard** | Creator & AI Architect | 5-agent LangGraph conversational BI engine over live PostgreSQL & MCP, AES-256 credential vault, and React 19 + Chart.js drag-and-drop dashboards. |
+| **[Learning Nodes](https://learningnodes.com)** | DevOps Engineer *(2022–2024)* | Self-managed Kubernetes (Kubeadm), ArgoCD GitOps, Terraform + AWS, and Prometheus/Grafana for Rust & Python IoT microservices. |
 
-**Public:** [key-tunnel](https://github.com/3ottA/key-tunnel), a Windows keyboard on Linux over SSH (Rust).
+### Open Source
 
-[X](https://x.com/franciscobotta_) · [LinkedIn](https://www.linkedin.com/in/francisco-botta/)
+- **[key-tunnel](https://github.com/3ottA/key-tunnel)** — Use a Windows keyboard on Arch/Omarchy Linux over a persistent SSH bridge *(Rust)*
+- **[uml-viewer](https://github.com/3ottA/uml-viewer)** — Live Quil UML class-diagram viewer driven by EDN *(Clojure)*
+
+---
+
+[Website](https://franciscobotta.com) · [X](https://x.com/franciscobotta_) · [LinkedIn](https://www.linkedin.com/in/francisco-botta) · [Email](mailto:bottafrancisco01@gmail.com)
